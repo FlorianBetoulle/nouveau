@@ -53,7 +53,6 @@ Thing::Thing()
     if (m_bouton1.clicked())
     {
 
-        allegro_message("Hello");
         /*m_top_box.add_child(m_bouton1bis);
         m_bouton1bis.add_child(m_image1bis);
         m_bouton1bis.set_frame_pos(10,210);
